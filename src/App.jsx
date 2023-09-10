@@ -1,7 +1,11 @@
 
 
 import './App.css'
-import Countrys from './component/countrys/countrys'
+
+import Countrys from './Components/Countrys/Countrys'
+
+
+
 
 
 function App() {
@@ -12,6 +16,8 @@ function App() {
       
       <h1> React world tour</h1>
       <Countrys></Countrys>
+     
+     
     </>
   )
 }
